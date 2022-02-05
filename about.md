@@ -8,7 +8,7 @@ Hello! I am iDetector welcome to my website :)
 
 ### More Information
 
-A security framework for IoT enviorment 
+Stay Tuned ! 
 
 ### Contact me
 
