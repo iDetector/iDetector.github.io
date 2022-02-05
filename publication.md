@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dataset
+title: Publication
 permalink: /publication/
 ---
 
