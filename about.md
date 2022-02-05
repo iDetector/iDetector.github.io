@@ -6,8 +6,6 @@ permalink: /about/
 
 Hello! I am iDetector welcome to my website :) 
 
-### More Information
-
 Stay Tuned ! 
 
 ### Contact me
