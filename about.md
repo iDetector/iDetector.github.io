@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello! I am iDetector welcome to my website :) 
 
-Stay Tuned ! 
+Stay Tuned !! 
 
 ### Contact me
 
