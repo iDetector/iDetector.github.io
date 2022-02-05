@@ -12,4 +12,4 @@ Stay Tuned !
 
 ### Contact me
 
-[email@domain.com](mailto:iDetectorphd20@domain.com)
+[Email Me](mailto:iDetectorphd20@domain.com)
