@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /
+permalink: /about
 ---
 
 Hello! I am iDetector welcome to my website :) 
